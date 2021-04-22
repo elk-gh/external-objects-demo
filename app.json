@@ -1,0 +1,5 @@
+{
+  "name": "External Objects Demo",
+  "description": "Demo of Salesforce Connect with a Node.js app",
+  "success_url": "/api/publications",
+}
